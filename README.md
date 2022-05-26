@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<div align="center"><h1>Hi there 👋</h1></div>
 
 <img align='right' src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=790b7611373bd89b90cbb3467e3c8d909b4aa32f38eae149&rid=giphy.gif&ct=g">
 
