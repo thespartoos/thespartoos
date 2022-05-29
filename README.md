@@ -12,8 +12,8 @@ I am Alejandro Ruiz a computer technician in microcomputer systems and networks,
 - <img src="https://yt3.ggpht.com/ytc/AKedOLRJhoGank_WgqMPWk7Yjl9cdlezGvcYf7CqmtGxFA=s900-c-k-c0x00ffffff-no-rj" alt="red hat" title="REDHAT" height="25" /> I am Pentester (Red Team)
 - 📚 &nbsp; My knowledge:
 
-  - **SMR(Medium grade Microcomputer systems and networks)**
-  - **EJTP**
+  - **SMR (Microcomputer systems and networks medium degree)**
+  - **EJTP (Elearning Security)**
 
 ### 🌐 Social Media:
 
