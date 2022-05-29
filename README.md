@@ -18,8 +18,8 @@ I am Alejandro Ruiz a computer technician in microcomputer systems and networks,
 ### 🌐 Social Media:
 
 <a href="https://twitter.com/thespartoos" alt="CSS3 logo" title="CSS3"><img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" height="50px"></img></a>
-<a href="https://thespartoos.github.io/https://thespartoos-blog.github.io/" alt="CSS3 logo" title="CSS3"><img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" height="50px"></img></a>
-<a href="https://twitter.com/thespartoos" alt="CSS3 logo" title="CSS3"><img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" height="50px"></img></a>
+<a href="https://thespartoos.github.io/https://thespartoos-blog.github.io/" alt="CSS3 logo" title="CSS3"><img src="https://cdn.icon-icons.com/icons2/1678/PNG/512/wondicon-ui-free-website_111210.png" height="50px"></img></a>
+<a href="https://twitter.com/thespartoos" alt="CSS3 logo" title="CSS3"><img src="https://cdn.icon-icons.com/icons2/1678/PNG/512/wondicon-ui-free-website_111210.png" height="50px"></img></a>
 <a href="https://www.hackthebox.com/home/users/profile/435714" alt="CSS3 logo" title="CSS3"><img src="https://static-cdn.jtvnw.net/jtv_user_pictures/e35a902c-7cef-49f1-800a-1e75acf39a96-profile_image-300x300.png" height="50px"></img></a>
 
 ### 🛠  Technologies and tools
