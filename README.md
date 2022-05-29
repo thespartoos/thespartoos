@@ -9,9 +9,9 @@ I am Alejandro Ruiz a computer technician in microcomputer systems and networks,
 ### 🧐 More About Me:
 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/thespartoos?tab=repositories)
-- <img src="https://yt3.ggpht.com/ytc/AKedOLRJhoGank_WgqMPWk7Yjl9cdlezGvcYf7CqmtGxFA=s900-c-k-c0x00ffffff-no-rj" alt="red hat" title="REDHAT" height="25" /> I am **Pentester (Red Team)** 
+- <img src="https://yt3.ggpht.com/ytc/AKedOLRJhoGank_WgqMPWk7Yjl9cdlezGvcYf7CqmtGxFA=s900-c-k-c0x00ffffff-no-rj" alt="red hat" title="REDHAT" height="25" /> I am Pentester (Red Team)
 - 📚 &nbsp; My knowledge:
-  - SMR(Medium grade Microcomputer systems and networks)
+  - **SMR(Medium grade Microcomputer systems and networks)**
   - **EJTP**
 
 Social Media:
