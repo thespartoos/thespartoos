@@ -17,14 +17,14 @@ I am Alejandro Ruiz a computer technician in microcomputer systems and networks,
 
 ### 🌐 Social Media:
 
-- <a href="https://twitter.com/thespartoos" alt="CSS3 logo" title="CSS3"><img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" height="30px"></img></a>
-- <a href="https://thespartoos.github.io/https://thespartoos-blog.github.io/" alt="CSS3 logo" title="CSS3"><img src="https://cdn.icon-icons.com/icons2/1678/PNG/512/wondicon-ui-free-website_111210.png" height="30px"></img></a>
-- <a href="https://twitter.com/thespartoos" alt="CSS3 logo" title="CSS3"><img src="https://cdn.icon-icons.com/icons2/1678/PNG/512/wondicon-ui-free-website_111210.png" height="30px"></img></a>
-- <a href="https://www.hackthebox.com/home/users/profile/435714" alt="CSS3 logo" title="CSS3"><img src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" height="30px"></img></a>
+<a href="https://twitter.com/thespartoos" alt="CSS3 logo" title="CSS3"><img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" height="30px"></img></a>
+<a href="https://thespartoos.github.io/https://thespartoos-blog.github.io/" alt="CSS3 logo" title="CSS3"><img src="https://cdn.icon-icons.com/icons2/1678/PNG/512/wondicon-ui-free-website_111210.png" height="30px"></img></a>
+<a href="https://twitter.com/thespartoos" alt="CSS3 logo" title="CSS3"><img src="https://cdn.icon-icons.com/icons2/1678/PNG/512/wondicon-ui-free-website_111210.png" height="30px"></img></a>
+<a href="https://www.hackthebox.com/home/users/profile/435714" alt="CSS3 logo" title="CSS3"><img src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" height="40px"></img></a>
 
 ### 🛠  Technologies and tools
 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a><br>
 
 ### Currently working with:
 
