@@ -4,7 +4,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 🧐 More About Me:
 
-<img align='right' src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=790b7611373bd89b90cbb3467e3c8d909b4aa32f38eae149&rid=giphy.gif&ct=g">
+<img align='center' src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=790b7611373bd89b90cbb3467e3c8d909b4aa32f38eae149&rid=giphy.gif&ct=g">
 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/thespartoos?tab=repositories)
 -   :computer: I am **Pentester (Red Team)**
