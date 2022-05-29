@@ -15,7 +15,7 @@ I am Alejandro Ruiz a computer technician in microcomputer systems and networks,
   - **SMR(Medium grade Microcomputer systems and networks)**
   - **EJTP**
 
-Social Media:
+### 🌐 Social Media:
 
 ## 🛠  Technologies and tools
 
