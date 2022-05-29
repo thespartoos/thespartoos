@@ -17,10 +17,10 @@ I am Alejandro Ruiz a computer technician in microcomputer systems and networks,
 
 ### 🌐 Social Media:
 
-Twitter <a href="https://twitter.com/thespartoos" alt="CSS3 logo" title="CSS3"><img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png"></img></a>
-Main page <a href="https://thespartoos.github.io/https://thespartoos-blog.github.io/" alt="CSS3 logo" title="CSS3"><img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png"></img></a>
+Twitter <a href="https://twitter.com/thespartoos" alt="CSS3 logo" title="CSS3"><img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" height="50px"></img></a>
+Main page <a href="https://thespartoos.github.io/https://thespartoos-blog.github.io/" alt="CSS3 logo" title="CSS3"><img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" height="50px"></img></a>
 Main blog <a href="https://twitter.com/thespartoos" alt="CSS3 logo" title="CSS3"><img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png"></img></a>
-Hackthebox <a href="https://www.hackthebox.com/home/users/profile/435714" alt="CSS3 logo" title="CSS3"><img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png"></img></a>
+Hackthebox <a href="https://www.hackthebox.com/home/users/profile/435714" alt="CSS3 logo" title="CSS3"><img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" height="50px"></img></a>
 
 ### 🛠  Technologies and tools
 
