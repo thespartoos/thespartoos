@@ -9,7 +9,7 @@ I am Alejandro Ruiz a computer technician in microcomputer systems and networks,
 ### 🧐 More About Me:
 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/thespartoos?tab=repositories)
--   :computer: I am **Pentester (Red Team)** <img src="https://yt3.ggpht.com/ytc/AKedOLRJhoGank_WgqMPWk7Yjl9cdlezGvcYf7CqmtGxFA=s900-c-k-c0x00ffffff-no-rj" alt="red hat" title="REDHAT" height="25" />
+- <img src="https://yt3.ggpht.com/ytc/AKedOLRJhoGank_WgqMPWk7Yjl9cdlezGvcYf7CqmtGxFA=s900-c-k-c0x00ffffff-no-rj" alt="red hat" title="REDHAT" height="25" /> I am **Pentester (Red Team)** 
 - 📚 &nbsp; My knowledge
 
 Social Media:
@@ -17,10 +17,8 @@ Social Media:
 ## 🛠  Technologies and tools
 
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+&nbsp;<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+&nbsp;<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 &nbsp;
 
 Currently working with:
