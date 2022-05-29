@@ -17,15 +17,14 @@ I am Alejandro Ruiz a computer technician in microcomputer systems and networks,
 
 ### 🌐 Social Media:
 
-## 🛠  Technologies and tools
+### 🛠  Technologies and tools
 
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
 &nbsp;<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
 &nbsp;<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 &nbsp;
 
-Currently working with:
-
+### Currently working with:
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thespartoos&show_icons=true&include_all_commits=true&theme=aura&hide_border=true" alt="Anurag's github stats" /></a><br>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thespartoos&layout=compact&theme=aura&hide_border=true" /></a>
