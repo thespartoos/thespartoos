@@ -10,8 +10,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 Social Media:
 
-[![Twitter](icons/twitter.png)](https://twitter.com/thespartoos)
-
 ## 🛠  Technologies and tools
 
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
