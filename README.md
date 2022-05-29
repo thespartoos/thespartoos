@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Thespartoos!
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am Alejandro Ruiz a computer technician in microcomputer systems and networks, a cybersecurity enthusiast 💻. Since I was a child I was always interested in computers and when I was a teenager I already knew what I wanted to be. From there I started to increase my knowledge in computers, specifically in the field of computer security, taking courses, visiting forums, watching videos; And all in an autodidactic way. Currently I'm still studying and on my way to the Superior Degree "DAW" (Web Applications Development) 🛠️.
 
 <div align="center">
   <img align='right' src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=790b7611373bd89b90cbb3467e3c8d909b4aa32f38eae149&rid=giphy.gif&ct=g">
