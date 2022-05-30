@@ -24,10 +24,10 @@ I am Alejandro Ruiz a computer technician in microcomputer systems and networks,
 
 ### 🛠  Technologies and tools
 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Html" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"></a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="CSS" height ="42px" src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png"></a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Bash" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png"></a><br><br>
+<img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg">
+<img align="left" alt="Html" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"></a>
+<img align="left" alt="CSS" height ="42px" src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png">
+<img align="left" alt="Bash" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png"><br><br>
 
 ### Currently working with:
 
