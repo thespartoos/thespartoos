@@ -2,8 +2,8 @@
 
 I am Alejandro Ruiz a computer technician in microcomputer systems and networks, a cybersecurity enthusiast 💻. Currently I'm still studying and on my way to the Superior Degree "DAW" (Web Applications Development) 🛠️.
 
-<div>
-  <img align="right" width="300px" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=790b7611373bd89b90cbb3467e3c8d909b4aa32f38eae149&rid=giphy.gif&ct=g">
+<br><div align="center">
+  <img width="300px" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=790b7611373bd89b90cbb3467e3c8d909b4aa32f38eae149&rid=giphy.gif&ct=g">
 </div>
 
 ### 🧐 More About Me:
@@ -15,13 +15,6 @@ I am Alejandro Ruiz a computer technician in microcomputer systems and networks,
   - **SMR (Microcomputer systems and networks medium degree)**
   - **EJPT (Elearning Security)**
 
-### 🌐 Social Media:
-
-<a href="https://twitter.com/thespartoos" alt="CSS3 logo" title="CSS3"><img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" height="30px"></img></a>
-<a href="https://thespartoos.github.io/https://thespartoos-blog.github.io/" alt="CSS3 logo" title="Web"><img src="https://cdn.icon-icons.com/icons2/1678/PNG/512/wondicon-ui-free-website_111210.png" height="30px"></img></a>
-<a href="https://thespartoos-blog.github.io/" alt="CSS3 logo" title="Blog"><img src="https://cdn.icon-icons.com/icons2/1678/PNG/512/wondicon-ui-free-website_111210.png" height="30px"></img></a>
-<a href="https://www.hackthebox.com/home/users/profile/435714" alt="CSS3 logo" title="HTB"><img src="https://www.hackthebox.com/images/logo-transparent.png" height="30px"></img></a>
-
 ### 🛠  Technologies and tools
 
 <img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg">
@@ -29,7 +22,16 @@ I am Alejandro Ruiz a computer technician in microcomputer systems and networks,
 <img align="left" alt="CSS" height ="42px" src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png">
 <img align="left" alt="Bash" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png"><br><br>
 
-### Currently working with:
+### 🌐 Social Media:
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thespartoos&show_icons=true&include_all_commits=true&theme=aura&hide_border=true" alt="Anurag's github stats" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thespartoos&layout=compact&theme=aura&hide_border=true" /></a>
+<a href="https://twitter.com/thespartoos" alt="CSS3 logo" title="CSS3"><img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" height="30px"></img></a>
+<a href="https://thespartoos.github.io/https://thespartoos-blog.github.io/" alt="CSS3 logo" title="Web"><img src="https://cdn.icon-icons.com/icons2/1678/PNG/512/wondicon-ui-free-website_111210.png" height="30px"></img></a>
+<a href="https://thespartoos-blog.github.io/" alt="CSS3 logo" title="Blog"><img src="https://cdn.icon-icons.com/icons2/1678/PNG/512/wondicon-ui-free-website_111210.png" height="30px"></img></a>
+<a href="https://www.hackthebox.com/home/users/profile/435714" alt="CSS3 logo" title="HTB"><img src="https://www.hackthebox.com/images/logo-transparent.png" height="30px"></img></a>
+
+
+<br><br><div align="center">
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thespartoos&show_icons=true&include_all_commits=true&theme=aura&hide_border=true" alt="Anurag's github stats" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thespartoos&layout=compact&theme=aura&hide_border=true" /></a>
+</div>
