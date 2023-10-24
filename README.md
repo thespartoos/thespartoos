@@ -1,6 +1,6 @@
 <h2> Hi, I'm Thespartoos! <img src="https://media.giphy.com/media/76Ezod7CxRDqivd57V/giphy.gif" width="60"></h2>
 <img align='right' src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="230">
-<p><em>Software developer at <a href="#">Montessori School</a><img src="https://media.giphy.com/media/jQePjCVHwYJtwOYwCY/giphy.gif" width="30"></br>CTF player <a href="https://www.hackthebox.com/home/users/profile/435714">HTB</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Pentester and Software developer&nbsp;<img src="https://media.giphy.com/media/jQePjCVHwYJtwOYwCY/giphy.gif" width="30"></br>CTF player <a href="https://www.hackthebox.com/home/users/profile/435714">HTB</a>&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/thespartoos?style=social)](https://twitter.com/thespartoos)
 [![Linkedin: thespartoos](https://img.shields.io/badge/-thespartoos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thespartoos/)](https://www.linkedin.com/in/thespartoos/)
